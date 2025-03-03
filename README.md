@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there! I'm Manti Mokone  
 
-<!--
-**Manti-techtalk/Manti-techtalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 💻 **Software Engineering | Cybersecurity**  
+- 🎓 **Computer Science Student** at St. Lawrence University  
+- 🔍 Passionate about  **Software Engineering & Cybersecurity Engineering**  
+- 🛠️ Current Stack **Django Rest Framework, FastAPI, Next.js, React Js, Node Js**  
+- 🛡️ Dream Career:  **Cybersecurity engineering --> Offensive security**  
 
-Here are some ideas to get you started:
+## 🏆 Skills & Technologies  
+- **Programming Languages:** Python, Java, JavaScript, 
+- **Frontend:** Next.js, React, TailwindCSS, Bootstrap
+- **Backend:** Django, FastAPI, Node.js  
+- **Databases:** PostgreSQL, SQL  
+- **Tools & Platforms:** Git, Github 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications  
+📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | Cybrary 
+📜 **Web Development:** Django, JavaScript, React.js, Java | Codecademy 
+---
+
+⭐ **Fun Fact:** *I enjoy Catch The Flag Games!* 🛡️💻  
+
+💡 Always open to collaboration! Let’s build something amazing. 🚀  
