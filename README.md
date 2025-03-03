@@ -16,7 +16,7 @@
 
 ## 🎓 Certifications  
 📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | Cybrary 
----
+
 📜 **Web Development:** Django, JavaScript, React.js, Java | Codecademy 
 
 ⭐ **Fun Fact:** *I enjoy Catch The Flag Games!* 🛡️💻  
