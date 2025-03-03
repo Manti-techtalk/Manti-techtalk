@@ -3,22 +3,23 @@
 ## 🚀 About Me  
 - 💻 **Software Engineering | Cybersecurity**  
 - 🎓 **Computer Science Student** at St. Lawrence University  
-- 🔍 Passionate about  **Software Engineering & Cybersecurity Engineering**  
-- 🛠️ Current Stack **Django Rest Framework, FastAPI, Next.js, React Js, Node Js**  
-- 🛡️ Dream Career:  **Cybersecurity engineering --> Offensive security**  
+- 🔍 Passionate about **Software Engineering & Cybersecurity Engineering**  
+- 🛠️ Current Tech Stack: **Django Rest Framework, FastAPI, Next.js, React.js, Node.js**  
+- 🛡️ Dream Career: **Cybersecurity Engineering → Offensive Security**  
 
 ## 🏆 Skills & Technologies  
-- **Programming Languages:** Python, Java, JavaScript, 
-- **Frontend:** Next.js, React, TailwindCSS, Bootstrap
+- **Programming Languages:** Python, Java, JavaScript  
+- **Frontend:** Next.js, React, TailwindCSS, Bootstrap  
 - **Backend:** Django, FastAPI, Node.js  
 - **Databases:** PostgreSQL, SQL  
-- **Tools & Platforms:** Git, Github 
+- **Security:** Network Hacking, Credentials Harvesting, Active Bruteforcing (Kali Linux)  
+- **Tools & Platforms:** Git, GitHub  
 
 ## 🎓 Certifications  
-📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | Cybrary 
+📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | Cybrary  
 
-📜 **Web Development:** Django, JavaScript, React.js, Java | Codecademy 
+📜 **Web Development:** Django, JavaScript, React.js, Java | Codecademy  
 
-⭐ **Fun Fact:** *I enjoy Catch The Flag Games!* 🛡️💻  
+⭐ **Fun Fact:** *I enjoy Capture The Flag (CTF) games!* 🛡️💻  
 
-💡 Always open to collaboration! Let’s build something amazing. 🚀  
+💡 Always open to collaboration!🚀  
