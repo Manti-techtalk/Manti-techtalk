@@ -3,11 +3,26 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mantimokone&color=blueviolet)
 
 ## 🚀 About Me  
-- 💻 **Software Engineering | Cybersecurity**  
-- 🎓 **Computer Science Student** at St. Lawrence University  
-- 🔍 Passionate about **Software Engineering & Cybersecurity Engineering**  
-- 🛠️ Current Tech Stack: **Django Rest Framework, FastAPI, Next.js, React.js, Node.js**  
-- 🛡️ Dream Career: **Cybersecurity Engineering → Offensive Security**  
+
+💡 **Who am I?**  
+I'm **Manti Mokone**, a passionate **Computer Science student at St. Lawrence University**, living at the crossroads of **Software Engineering** and **Offensive Security**.  
+
+💻 **What I Do:**  
+I craft scalable web apps using **FastAPI**, **Django Rest Framework**, and **Next.js** — and when I’m not building, I’m breaking (ethically) 👾.  
+Exploring vulnerabilities, pen-testing networks, and hardening systems are what keep my curiosity alive.  
+
+❤️ **What Drives Me:**  
+My heart beats for **Offensive Security** — breaking systems to understand them —  
+but my hands are deep in **Software Engineering**, bringing real-world ideas to life through code.  
+
+🎯 **My Vision:**  
+To become a **Cybersecurity Engineer** who bridges the gap between development and hacking —  
+protecting the systems I build from the attacks I can perform.  
+
+🛠️ **Current Focus:**  
+- Building full-stack apps with **Python**, **React**, and **PostgreSQL**  
+- Expanding my **penetration testing** toolkit  
+- Exploring how **AI and automation** can enhance **cyber defense**  
 
 ---
 
@@ -35,7 +50,7 @@
 ### 🔐 Security  
 - Network Hacking  
 - Credentials Harvesting  
-- Active Bruteforcing (Kali Linux)  
+- Active Bruteforcing *(Kali Linux)*  
 
 ---
 
