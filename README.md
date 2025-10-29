@@ -7,10 +7,6 @@
 💡 **Who am I?**  
 I'm **Manti Mokone**, a passionate **Computer Science student at St. Lawrence University**, living at the crossroads of **Software Engineering** and **Offensive Security**.  
 
-💻 **What I Do:**  
-I craft scalable web apps using **FastAPI**, **Django Rest Framework**, and **Next.js** — and when I’m not building, I’m breaking (ethically) 👾.  
-Exploring vulnerabilities, pen-testing networks, and hardening systems are what keep my curiosity alive.  
-
 ❤️ **What Drives Me:**  
 My heart beats for **Offensive Security** — breaking systems to understand them —  
 but my hands are deep in **Software Engineering**, bringing real-world ideas to life through code.  
@@ -18,11 +14,6 @@ but my hands are deep in **Software Engineering**, bringing real-world ideas to 
 🎯 **My Vision:**  
 To become a **Cybersecurity Engineer** who bridges the gap between development and hacking —  
 protecting the systems I build from the attacks I can perform.  
-
-🛠️ **Current Focus:**  
-- Building full-stack apps with **Python**, **React**, and **PostgreSQL**  
-- Expanding my **penetration testing** toolkit  
-- Exploring how **AI and automation** can enhance **cyber defense**  
 
 ---
 
