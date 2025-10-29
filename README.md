@@ -2,6 +2,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manti-techtalk&color=blueviolet)
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Manti-techtalk&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    alt="Manti's GitHub Stats" 
+    height="160px"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Manti-techtalk&theme=radical&hide_border=true" 
+    alt="Manti's GitHub Streak" 
+    height="160px"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manti-techtalk&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="160px"
+  />
+</p>
+
+---
+
 ## 🚀 About Me  
 💡 **Who am I?**  
 I'm **Manti Mokone**, a passionate **Computer Science student at St. Lawrence University**, living at the crossroads of **Software Engineering** and **Offensive Security**.  
@@ -49,31 +74,6 @@ protecting the systems I build from the attacks I can perform.
 📜 **Web Development:** Django, JavaScript, React.js, Java | *Codecademy*  
 
 ⭐ **Fun Fact:** *I enjoy Capture The Flag (CTF) games!* 🛡️💻  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Manti-techtalk&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="Manti's GitHub Stats" 
-    height="160px"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Manti-techtalk&theme=radical&hide_border=true" 
-    alt="Manti's GitHub Streak" 
-    height="160px"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manti-techtalk&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    height="160px"
-  />
-</p>
 
 ---
 
