@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Manti Mokone  
 
+![Profile Views](https://komarev.com/ghpvc/?username=mantimokone&color=blueviolet)
+
 ## 🚀 About Me  
 - 💻 **Software Engineering | Cybersecurity**  
 - 🎓 **Computer Science Student** at St. Lawrence University  
@@ -7,19 +9,50 @@
 - 🛠️ Current Tech Stack: **Django Rest Framework, FastAPI, Next.js, React.js, Node.js**  
 - 🛡️ Dream Career: **Cybersecurity Engineering → Offensive Security**  
 
+---
+
 ## 🏆 Skills & Technologies  
-- **Programming Languages:** Python, Java, JavaScript  
-- **Frontend:** Next.js, React, TailwindCSS, Bootstrap  
-- **Backend:** Django, FastAPI, Node.js  
-- **Databases:** PostgreSQL, SQL  
-- **Security:** Network Hacking, Credentials Harvesting, Active Bruteforcing (Kali Linux)  
-- **Tools & Platforms:** Git, GitHub  
+
+### 💬 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧠 Frameworks & Tools  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### 🔐 Security  
+- Network Hacking  
+- Credentials Harvesting  
+- Active Bruteforcing (Kali Linux)  
+
+---
 
 ## 🎓 Certifications  
-📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | Cybrary  
-
-📜 **Web Development:** Django, JavaScript, React.js, Java | Codecademy  
+📜 **Cybersecurity & Networking:** Nmap, Wireshark, Network Devices, IP Addressing, Network Models | *Cybrary*  
+📜 **Web Development:** Django, JavaScript, React.js, Java | *Codecademy*  
 
 ⭐ **Fun Fact:** *I enjoy Capture The Flag (CTF) games!* 🛡️💻  
 
-💡 Always open to collaboration!🚀  
+---
+
+## 📊 GitHub Stats  
+![Manti's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantimokone&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantimokone&layout=compact&theme=radical)  
+
+---
+
+## 💡 Let’s Connect!  
+💬 Always open to **collaboration** and **learning opportunities** — feel free to reach out!  
+
+> "Hack the system. Build the future." 🛡️
