@@ -1,11 +1,18 @@
 # 👋 Hey there! I'm Manti Mokone  
 
-![Profile Views](https://komarev.com/ghpvc/?username=mantimokone&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Manti-techtalk&color=blueviolet)
 
 ## 🚀 About Me  
-💻 **Software Engineering | Cybersecurity**  
-🎓 **Computer Science Student** at St. Lawrence University  
-🛡️ Dream Career: **Cybersecurity Engineering → Offensive Security**  
+💡 **Who am I?**  
+I'm **Manti Mokone**, a passionate **Computer Science student at St. Lawrence University**, living at the crossroads of **Software Engineering** and **Offensive Security**.  
+
+❤️ **What Drives Me:**  
+My heart beats for **Offensive Security** — breaking systems to understand them —  
+but my hands are deep in **Software Engineering**, bringing real-world ideas to life through code.  
+
+🎯 **My Vision:**  
+To become a **Cybersecurity Engineer** who bridges the gap between development and hacking —  
+protecting the systems I build from the attacks I can perform.  
 
 ---
 
@@ -33,7 +40,7 @@
 ### 🔐 Security  
 - Network Hacking  
 - Credentials Harvesting  
-- Active Bruteforcing (Kali Linux)  
+- Active Bruteforcing *(Kali Linux)*  
 
 ---
 
@@ -49,12 +56,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mantimokone&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Manti-techtalk&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     alt="Manti's GitHub Stats" 
     height="160px"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mantimokone&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Manti-techtalk&theme=radical&hide_border=true" 
     alt="Manti's GitHub Streak" 
     height="160px"
   />
@@ -62,7 +69,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantimokone&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manti-techtalk&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     height="160px"
   />
