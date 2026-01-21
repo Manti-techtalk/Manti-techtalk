@@ -3,7 +3,7 @@
 # 👋 Hey there! I'm Manti Mokone
 ### Software Engineer | CS @ St. Lawrence University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Scalable+Systems;Backend+Infrastructure;Seeking+Summer+2026+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Scalable+Systems;Backend+Infrastructure; alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manti-mokone/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manti-techtalk&color=blueviolet&style=for-the-badge)
