@@ -1,77 +1,142 @@
 <div align="center">
 
-# 👋 Hey there! I'm Manti Mokone
-### Software Engineer | CS @ St. Lawrence University
+# Manti Mokone
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Scalable+Systems;Backend+Infrastructure;Data-Driven+Engineering" alt="Typing SVG" />
+### Software Engineer · Backend Systems · Applied AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manti-mokone/)
-![Profile Views](https://komarev.com/ghpvc/?username=Manti-techtalk&color=blueviolet&style=for-the-badge)
+Computer Science @ St. Lawrence University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manti%20Mokone-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manti-mokone/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manti--techtalk-181717?style=flat\&logo=github)](https://github.com/Manti-techtalk)
+![Profile Views](https://komarev.com/ghpvc/?username=Manti-techtalk\&style=flat\&color=7c3aed)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>Engineering Scalable Infrastructure 🏗️</h3>
-      <p>
-        I am a <strong>Software Engineer</strong> at <strong>St. Lawrence University</strong> specializing in the design and implementation of high-performance backend systems and data-driven applications.
-      </p>
-      <p>
-        My engineering focus is on building resilient architecture that prioritizes efficiency and low-latency performance. I thrive on solving complex algorithmic problems and optimizing data pipelines for real-world impact.
-      </p>
-      <ul>
-        <li>🔭 <strong>Currently:</strong> Optimizing API performance and architecting ML data workflows.</li>
-        <li>⚡ <strong>Technical Focus:</strong> Backend Architecture, Distributed Systems, and System Optimization.</li>
-        <li>🌱 <strong>Interests:</strong> Large-scale automation, cloud-native design, and performance engineering.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+I'm a software engineer focused on **backend infrastructure, automation, and applied AI systems**.
+
+I enjoy building systems that have to do more than work in a demo: APIs, background workers, distributed workflows, browser automation, data pipelines, authentication systems, and production infrastructure.
+
+Currently building **AutonLabs**, where I'm developing **Flow**, an AI-powered career platform that automates and manages parts of the job search process.
+
+```text
+Current focus
+├── Backend & distributed systems
+├── Agentic / browser automation
+├── API & database performance
+├── Applied AI
+└── Shipping production software
+```
 
 ---
 
-## 🛠️ Engineering Toolbox
+## Featured Work
 
-### 💻 Core Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Flow · AutonLabs
 
-### ⚙️ Systems & Engineering Competencies
-- **Architecture:** System Design, RESTful API Design, Microservices.
-- **Data Engineering:** Database Normalization (PostgreSQL), Data Pipelines (Scikit-Learn).
-- **Environment:** Linux Systems, Git Version Control, Cloud-Native Infrastructure.
+**Django · PostgreSQL · Redis · Celery · Next.js · React Native · AWS**
+
+AI-powered career infrastructure for job discovery, application automation, recruiter outreach, resume tooling, and application tracking.
+
+* Built a distributed backend using **Django, PostgreSQL, Redis, and Celery**
+* Developed browser automation across **Greenhouse, Lever, Ashby, Workable, JazzHR, and other ATS platforms**
+* Built asynchronous application-processing pipelines with background workers and fault handling
+* Developed Gmail, Calendar, and GitHub integrations
+* Shipped web and mobile clients backed by the same production API
+* Built CI/CD and deployment infrastructure for continuous iteration
+
+**Live:** [autonlabs.co](https://autonlabs.co)
 
 ---
 
-## 📂 Featured Engineering Projects
+### Morabaraba AI Engine
 
-### 🚀 **Loc: Scalable File-Sharing Infrastructure**
-- Engineered a robust file-sharing platform utilizing **PostgreSQL** and **AWS S3** for cloud-native storage.
-- Designed and optimized API endpoints capable of handling **5,000+ Requests Per Second (RPS)**.
-- Implemented automated session management and storage optimization to reduce data retrieval latency.
+**TypeScript · Minimax · Alpha-Beta Search · Web Workers**
 
-### 🤖 **Automated ML Data Pipeline**
-- Developed a high-throughput **Scikit-Learn** pipeline to process and train models on over **500,000+ data points**.
-- Integrated the **Gemini API** to automate complex task analysis and metadata classification.
-- Improved model training efficiency by implementing custom data cleaning and feature engineering modules.
+An AI engine for **Morabaraba**, a traditional Basotho strategy game.
+
+* Built three difficulty levels from scratch
+* Implemented **minimax + alpha-beta pruning**
+* Added **iterative deepening**
+* Built a **Zobrist-hashed transposition table**
+* Implemented killer/history move ordering and capture extensions
+* Runs computation off the UI thread using **Web Workers**
+
+[View project](https://morabaraba-vert.vercel.app)
+
+---
+
+### Loc
+
+**FastAPI · Next.js · PostgreSQL · Redis · AWS S3 · WebSockets**
+
+Secure file-sharing and real-time communication platform.
+
+* Built REST APIs with **FastAPI**
+* Implemented real-time messaging using **WebSockets**
+* Used **Redis** for caching and transient application state
+* Added S3-backed file storage
+* Integrated an AI assistant through the Gemini API
+* Deployed infrastructure on AWS
+
+---
+
+## Engineering Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+
+**Backend & Data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+
+---
+
+## Experience
+
+**Founder & Software Engineer — AutonLabs**
+Building production AI and automation infrastructure for Flow.
+
+**Software Engineer Intern — OhBet LLC**
+Built full-stack features with Next.js, FastAPI, PostgreSQL, and AWS.
+
+**Software Engineer Intern — OptimusAI**
+Worked on full-stack infrastructure, API performance, and backend scalability.
+
+---
+
+## Currently Exploring
+
+* Distributed systems
+* Agent orchestration
+* Database and API performance
+* Infrastructure for browser automation
+* Applied machine learning
+* System design
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect!
-[Email Me](mailto:mokonemanti256@gmail.com) • [LinkedIn](https://www.linkedin.com/in/manti-mokone/)
+### Let's connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Engineering&fontSize=30&fontColor=fff&animation=twinkling"/>
+[LinkedIn](https://www.linkedin.com/in/manti-mokone/) · [Email](mailto:mokonemanti256@gmail.com) · [AutonLabs](https://autonlabs.co)
 
 </div>
